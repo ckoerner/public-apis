@@ -367,6 +367,7 @@ API | Description | Auth | HTTPS | Link |
 | Dronestream | Tracks United States drone strikes | No | Yes | [Go!](https://dronestre.am/) |
 | fonoApi | Mobile Device Description | No | Yes | [Go!](https://fonoapi.freshpixl.com/) |
 | French Address Search | French Government | No | Yes | [Go!](https://adresse.data.gouv.fr/api) |
+| Mediawiki | Open-source wiki software used by many including Wikipedia, Wikidata, and other Wikimedia projects. | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
 | Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
 | Open Government, Canada | Canadian Government Open Data | No | No | [Go!](http://open.canada.ca/en) |
 | Open Government, India | Indian Government Open Data | `apiKey` | Yes | [Go!](https://data.gov.in/) |
@@ -380,8 +381,9 @@ API | Description | Auth | HTTPS | Link |
 | Scoop.it | Content Curation Service | `apiKey` | No | [Go!](http://www.scoop.it/dev) |
 | Teleport | Quality of Life Data | No | Yes | [Go!](https://developers.teleport.org/) |
 | UPC database | More than 1.5 million barcode numbers from all around the world | `apiKey` | Yes | [Go!](https://upcdatabase.org/api) |
-| Wikidata | Collaboratively edited knowledge base operated by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
-| Wikipedia | Mediawiki Encyclopedia | No | Yes | [Go!](https://www.mediawiki.org/wiki/API:Main_page) |
+| Wikidata | Collaboratively edited knowledge base supported by the Wikimedia Foundation | `OAuth` | Yes | [Go!](https://www.wikidata.org/w/api.php?action=help) |
+| Wikimedia content | Content Wikipedia and sister project articles | No | Yes| [Go!](https://www.mediawiki.org/wiki/API:Web_APIs_hub) |
+| Wikimedia page views | Page view history for Wikimedia projects including Wikipedia | No | Yes | [Go!]https://wikimedia.org/api/rest_v1/#/Pageviews_data |
 | Wordnik | Dictionary Data | No | No | [Go!](http://developer.wordnik.com) |
 | Yelp | Find Local Business | `OAuth` | Yes | [Go!](https://www.yelp.com/developers/documentation/v3) |
 
